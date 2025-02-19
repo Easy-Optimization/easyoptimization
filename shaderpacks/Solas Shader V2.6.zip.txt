@@ -1,0 +1,7 @@
+#Mon Feb 17 11:20:06 GMT 2025
+shadowDistance=512.0
+VOXEL_VOLUME_SIZE=256
+GI=true
+shadowMapResolution=2048
+VPS=true
+LPV_FOG_SAMPLES=10

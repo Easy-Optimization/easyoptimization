@@ -1,0 +1,10 @@
+#Sun Feb 16 17:24:22 GMT 2025
+shadowDistance=192.0
+LIGHT_SHAFT=false
+LIGHT_MI=0.85
+shadowMapResolution=1536
+MCBL_LEGACY_COLOR=true
+AURORA_HI=4.00
+TAA=false
+LIGHT_MR=180
+SHADOW_COLOR=false
